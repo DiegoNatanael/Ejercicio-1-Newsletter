@@ -20,8 +20,8 @@ Desarrolla una página web usando HTML y CSS que permita a los usuarios suscribi
 ---
 
 ## 🔗 Enlace al proyecto
-Repositorio en GitHub: [Pega aquí tu enlace]  
-Deploy: [Pega aquí el deploy de GitHub Pages]
+Repositorio en GitHub: https://github.com/DiegoNatanael/Ejercicio-1-Newsletter  
+Deploy: https://diegonatanael.github.io/Ejercicio-1-Newsletter/
 
 ---
 
